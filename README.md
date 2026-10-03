@@ -91,6 +91,7 @@ ISPs that offer FWA (Fixed Wireless Access) over 5G publish a hardware specifica
 | NR5G SA/NSA (TDD) | n78 | — |
 
 *Source: [Free Mobile France spectrum allocation](https://www.spectrum-tracker.com/France/Free-Mobile) (ARCEP licensed bands). No official FWA hardware spec document published by Free Mobile.*
+*Source about LTE B20 (only in less denses areas in "4G ZB" RAN Sharing : [RAN Sharing in less denses areas in France ](https://lafibre.info/4g/20-mhz-en-800-mhz-en-zb/msg1102790/#msg1102790)]*
 
 ### Custom
 
