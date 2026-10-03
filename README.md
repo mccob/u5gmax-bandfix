@@ -86,7 +86,7 @@ ISPs that offer FWA (Fixed Wireless Access) over 5G publish a hardware specifica
 
 | Radio | Required active bands | Must be disabled |
 |-------|----------------------|-----------------|
-| LTE (FDD) | B1, B3, B7, B8, B28 | B20, B38 |
+| LTE (FDD) | B1, B3, B7, B8, B20, B28 | B38 |
 | NR5G SA/NSA (FDD) | n1, n28 | n3, n7, n8, n20, n38 |
 | NR5G SA/NSA (TDD) | n78 | — |
 
